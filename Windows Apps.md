@@ -4,22 +4,23 @@
 - Browsers
   - Brave
   - Chrome
+- LocalSend
+- Revo Uninstaller
 - Free Download Manager
 - WinRAR
-- Revo Uninstaller
 - VLC Media Player
 - WhatsApp Desktop
-- Telegram Desktop
+- Telegram Desktop *
 - Discord
 - Paint 3D
+
 - Figma
 - Powershell
 - MS Office + Activation
 - Power Toys
 - Nvidia App
-- LocalSend
-- MP3Tag
-- Proton VPN
+- MP3Tag *
+- Proton VPN *
 - AMD Software: Adrenaline Edition ❌
 
 ## Drivers
@@ -58,10 +59,11 @@
 - Plants vs Zombies ❌
 
 ## Game Development
-- Aesprite *
-- Godot *
-- Unity *
-- Unreal Engine *
-- Gimp *
+- Unity
+- itch.io
 - Blender *
+- Unreal Engine *
+- Aesprite ❌
+- Godot ❌
+- Gimp ❌
 
