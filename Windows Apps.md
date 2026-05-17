@@ -1,31 +1,38 @@
 # Applications List
 
-## General Purpose Applications
 - Browsers
   - Brave
   - Chrome
-- LocalSend
-- Revo Uninstaller
-- Free Download Manager
-- WinRAR
-- VLC Media Player
-- WhatsApp Desktop
-- Telegram Desktop *
-- Discord
-- Paint 3D
 
-- Figma
-- Powershell
-- MS Office + Activation
-- Power Toys
-- Nvidia App
-- MP3Tag *
-- Proton VPN *
-- AMD Software: Adrenaline Edition ❌
+- Must Have Utilities
+  - LocalSend
+  - Revo Uninstaller
+  - Free Download Manager
+  - WinRAR
+  - VLC Media Player
+  - Power Toys
 
-## Drivers
-- Ant Esports GM320 Mouse Driver
-- Redgear Cosmo 7.1 Headphone Driver ❌
+- Drivers
+  - Ant Esports GM320 Mouse Driver
+  - Redgear Cosmo 7.1 Headphone Driver ❌
+
+- Social Media
+  - WhatsApp Desktop
+  - Discord
+  - Telegram Desktop *
+ 
+- Drawing Tools
+  - Paint 3D
+  - Figma
+  - Affinity *
+
+- Other Utilities
+  - Powershell
+  - MS Office + Activation
+  - Nvidia App
+  - MP3Tag *
+  - Proton VPN *
+  - AMD Software: Adrenaline Edition ❌
 
 ## College & Coding
 - VS Code
