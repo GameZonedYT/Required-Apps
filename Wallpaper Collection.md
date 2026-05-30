@@ -1,5 +1,5 @@
 # My Current Wallpaper
-![Win 11 styled Bliss](https://files.catbox.moe/kgbquv.png)
+- Win 11 styled Bliss (Ultrawide) : https://files.catbox.moe/kgbquv.png
 
 # Wallpapers
 ### Win XP Wallpapers
